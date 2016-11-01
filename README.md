@@ -1,3 +1,3 @@
 ## This is a markdown file
 
-[Tony Li]<tony@plusamp.com>
+[Tony Li](tony@plusamp.com)
